@@ -70,3 +70,14 @@ El botón Registrar permanece deshabilitado hasta aceptar el aviso de privacidad
 Al presionar el botón "Limpiar" dentro del diálogo de resumen, todos los campos de texto, fecha y casillas regresan a su estado inicial vacío.
 
 <img width="421" height="922" alt="image" src="https://github.com/user-attachments/assets/f365f97c-57df-4ea2-a8a5-1b28a924cf6a" />
+
+
+---
+
+### Extra
+menú desplegable que sustituya al grupo de opciones, con tres alternativas en lugar de dos.
+
+<img width="418" height="863" alt="image" src="https://github.com/user-attachments/assets/9f525a92-e4b1-4e87-95f2-b218cf54888e" />
+
+
+---
